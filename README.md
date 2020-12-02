@@ -1,5 +1,7 @@
 # vue-tasks
 
+This project is a simple task list to help me learn the basics of vuejs. 
+
 ## Project setup
 ```
 npm install
